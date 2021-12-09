@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+/* Opacity */
+.opacity {
+  position: absolute;
+  left: 35%;
+  width: 100px;
+  height: 100px;
+  margin: 50px auto;
+  opacity: 1;
+  border-radius: 10px;
+  /* border-image: url('https://www.w3schools.com/css/border.png') 30 round; */
+
+  background: rgb(76,209,55);
+background: linear-gradient(90deg, rgba(76,209,55,1) 11%, rgba(25,42,86,1) 51%, rgba(0,212,255,1) 90%);
+}
